@@ -1,5 +1,6 @@
 from operator import truediv
 import pygame
+
 pygame.init()
 
 
